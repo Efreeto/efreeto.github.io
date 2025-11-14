@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Research (Jan 2018 – Apr 2023)"
-excerpt: "<img src='/images/Project Science Engine.png' width='200' height='150'> &nbsp;&nbsp; **Project Science Engine (Research Canvas)**"
+excerpt: " &nbsp;&nbsp; <img src='/images/Project Science Engine.png' width='200' height='150'><br/> &nbsp;&nbsp; Project Science Engine (Research Canvas)"
 collection: portfolio
 ---
 <img src="/images/Project Science Engine.png" width="600">

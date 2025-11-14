@@ -1,6 +1,6 @@
 ---
 title: "Meta Reality Labs (Dec 2023 – Dec 2025)"
-excerpt: "<img src='/images/Meta glove prototype.png' width='200' height='150'> &nbsp;&nbsp; **Haptic Glove Tracking for VR**"
+excerpt: " &nbsp;&nbsp; <img src='/images/Meta glove prototype.png' width='200' height='150'><br/> &nbsp;&nbsp; Haptic Glove Tracking for VR"
 collection: portfolio
 ---
 <img src="/images/Meta glove prototype.png" width="450">
