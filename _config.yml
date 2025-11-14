@@ -12,7 +12,7 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "Woo Kim"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Woo Kim's web site"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Woo Kim's website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://efreeto.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Woo Kim"
-  pronouns         : # example: "she/her"
-  bio              : "ML/CV Engineer with experience at Meta & Microsoft\nMBA and B.S. in Computer Engineering (UIUC)."
+  bio              : "ML/CV Engineer with experiences at Meta & Microsoft"
+  pronouns         : "U.S.Citizen" # example: "she/her"
   location         : "Bellevue, WA"
-  employer         : # "Meta"
+  employer         : "UIUC" # "Meta"
   uri              : # URL
   email            : "woowon.kim@gmail.com"
 
@@ -122,7 +122,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -277,7 +277,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
