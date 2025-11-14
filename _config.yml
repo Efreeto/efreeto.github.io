@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Woo Kim"
-  bio              : "ML/CV Engineer with experiences at Meta & Microsoft"
-  pronouns         : "U.S.Citizen" # example: "she/her"
+  bio              : "ML/CV Engineer from Meta & Microsoft"
+  pronouns         : "U.S. citizen" # example: "she/her"
   location         : "Bellevue, WA"
   employer         : "UIUC" # "Meta"
   uri              : # URL
