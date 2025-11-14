@@ -1,6 +1,6 @@
 ---
 title: "SRI International (Jul 2014 – Oct 2014)"
-excerpt: "3D Facial Expression Reconstruction"
+excerpt: "<img src='/images/facial expression 2 - blurred.png' width='200' height='150' hspace='30'> 3D Facial Expression Reconstruction"
 collection: portfolio
 ---
 

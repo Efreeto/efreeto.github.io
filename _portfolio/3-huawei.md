@@ -1,6 +1,6 @@
 ---
 title: "Huawei Technologies (Sep 2017 – Nov 2017)"
-excerpt: "AR Facial Alignment Acceleration"
+excerpt: "<img src='/images/facial alignment.png' width='200' height='150' hspace='30'> AR Facial Alignment Acceleration"
 collection: portfolio
 ---
 <img src="/images/facial alignment.png" width="600">
