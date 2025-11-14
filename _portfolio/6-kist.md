@@ -1,6 +1,6 @@
 ---
 title: "Korea Institute of Science and Technology (KIST) (Dec 2012 – Dec 2013)"
-excerpt: "<img src='/images/hand pose db.png' width='200' height='150' hspace='30' style='padding: 10px;'> Hand Tracking in RGB-D space"
+excerpt: "<img src='/images/hand pose db.png' width='200' height='150'> &nbsp;&nbsp; **Hand Tracking in RGB-D Space**"
 collection: portfolio
 ---
 
