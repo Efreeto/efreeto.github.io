@@ -5,7 +5,7 @@ collection: portfolio
 ---
 <img src="/images/facial alignment.png" width="600">
 
-[🔗 View on GitHub](https://github.com/Efreeto/face-alignment)
+[🔗 GitHub: Facial Alignment](https://github.com/Efreeto/face-alignment)
 
 - Implemented state-of-the-art AR facial alignment algorithms in production-ready code, translating research papers into robust C++ (Caffe) and PyTorch pipelines.
 - Achieved a novel 15% inference speed improvement through network layer optimization, enhancing real-time AR performance without sacrificing accuracy.

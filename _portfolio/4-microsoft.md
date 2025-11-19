@@ -19,6 +19,6 @@ collection: portfolio
 
 ---
 
-- Developed large-scale scene understanding models using 3D ConvNets.  [🔗 View on GitHub](https://github.com/Efreeto/C3D)
-- Created ML metric evaluation and dataset annotation tools and managed a 7-member team to deliver a high-quality image dataset under a tight schedule.  [🔗 View on GitHub](https://github.com/Efreeto/vatic)
-- Optimized integration and performance across multiple device platforms.  [🔗 View on GitHub](https://github.com/Efreeto/darknet)
+- Developed large-scale scene understanding models using 3D ConvNets.  [🔗 GitHub: C3D](https://github.com/Efreeto/C3D)
+- Optimized an open-source YOLO implementation to achieve real-time video object detection.  [🔗 GitHub: YOLO](https://github.com/Efreeto/darknet)
+- Created ML metric evaluation and dataset annotation tools and managed a 7-member team to deliver a high-quality image dataset under a tight schedule.  [🔗 GitHub: Vatic](https://github.com/Efreeto/vatic)

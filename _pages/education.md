@@ -28,36 +28,51 @@ author_profile: true
 - Brain Korea 21 Scholarship Recipient
 
 ### Publications
-- *Automatic head pose estimation from a single camera using projective geometry*, ICICS 2011, Singapore
-- *Robust 3D face shape estimation using multiple deformable models*, IEEE ICIEA 2011, Beijing
+
+- Automatic head pose estimation from a single camera using projective geometry, *ICICSP 2011, Singapore*
+- Robust 3D face shape estimation using multiple deformable models, *IEEE ICIEA 2011, Beijing*
 
 ### Projects
 
-- Head Pose Estimation for Samsung Galaxy SIII
+<details>
+  <summary>Head Pose Estimation for Smartphone Front Cameras</summary>
+  <p>
+   &nbsp;&nbsp; <img src="/images/head pose estimation with virtual head.png" width="300">
+  </p>
+  <p>
+   &nbsp;&nbsp; Designed a novel real-time head pose estimation algorithm optimized for the Samsung Galaxy SIII.
+  </p>
+</details>
 
-  <img src="/images/head pose estimation with virtual head.png" width="400">
+<details>
+  <summary>Unscented Kalman Filter Tracking Implementation</summary>
+  <p>
+   &nbsp;&nbsp; <img src="/images/ukf.png" width="300">
+  </p>
+  <p>
+   &nbsp;&nbsp; <a href="https://github.com/Efreeto/UKF">🔗 GitHub: UKF</a>
+  </p>
+  <p>
+   &nbsp;&nbsp; Developed a C++/OpenCV UKF module derived from original paper and MATLAB prototypes.
+  </p>
+</details>
 
-  - Developed a real-time head pose estimation algorithm for smartphone front cameras.
-  - Collaborated with **Samsung Electronics** for prototype integration.
-
-- Unscented Kalman Filter Implementation
-
-  <img src="/images/ukf.png" width="400">
-
-  [🔗 View on GitHub](https://github.com/Efreeto/UKF)
-
-  - Implemented UKF for nonlinear motion estimation problems.
-  - Validated through synthetic and real trajectory experiments.
-
-- Head Model Reconstruction using Stereovision & RBF Interpolation
-
-  <img src="/images/rbf head.png" width="400">
-
-  [🔗 View on GitHub](https://github.com/Efreeto/FaceMorph)
-
-  - Built a 3D head model reconstruction pipeline using stereovision.
-  - Used radial basis functions to improve interpolation quality.
+<details>
+  <summary>Head Model Reconstruction from Stereovision & RBF Interpolation</summary>
+  <p>
+   &nbsp;&nbsp; <img src="/images/rbf head.png" width="300">
+  </p>
+  <p>
+   &nbsp;&nbsp; <a href="https://github.com/Efreeto/FaceMorph">🔗 GitHub: FaceMorph</a>
+  </p>
+  <p>
+   &nbsp;&nbsp; Built a 3D head reconstruction pipeline using epipolar geometry and Radial Basis Function (RBF) interpolation.
+  </p>
+</details>
 
 ---
 
 ## B.S. in Computer Engineering — University of Illinois (2004–2008)
+
+- Focus areas: digital logic, embedded programming, algorithms
+- Additional coursework: robotics, statistics, computer graphics
