@@ -13,6 +13,8 @@ Most of my experiences have been on turning research ideas into reliable, scalab
 
 I'm currently focused on ML infrastructure, multimodal perception, and scalable training systems.
 
+[Download CV](/files/Resume%20-%20Woo%20Kim.pdf)
+
 <br>
 
 Selected Works
@@ -26,6 +28,8 @@ Selected Works
 * Developed **multimodal data pipelines** (mocap, IMU, tactile, optical fiber) for synchronized data collection and evaluation
 * Designed tools for experiment tracking and automated annotation to accelerate iteration and reduce labeling cost
 
+[View details](/portfolio/1-meta/)
+
 
 ### Microsoft Research (Jan 2018 – Apr 2023)
 
@@ -35,6 +39,8 @@ Selected Works
 * Built backend systems and infrastructure supporting **scalable ML workflows** on Azure
 * Developed telemetry and monitoring systems to improve reliability and observability
 
+[View details](/portfolio/2-microsoft/)
+
 
 ### SRI International (Jul 2014 – Oct 2014)
 
@@ -42,6 +48,8 @@ Selected Works
 
 * Developed an end-to-end pipeline for **3D facial reconstruction from 2D video**
 * Covered modeling, training, and visualization, delivered independently in a remote environment
+
+[View details](/portfolio/5-sri/)
 
 
 <br>
