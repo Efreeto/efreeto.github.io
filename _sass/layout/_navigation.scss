@@ -151,10 +151,21 @@
     }
 
     &.disabled {
-      color: var(--global-text-color-light);
+      color: var(--global-text-color);
+      background-color: transparent;
+      border-color: var(--global-border-color);
+      box-shadow: none;
+      opacity: 0.4;
       pointer-events: none;
       cursor: not-allowed;
     }
+  }
+}
+
+html[data-theme="dark"] {
+  .pagination--pager.disabled {
+    background-color: var(--global-footer-bg-color);
+    opacity: 0.45;
   }
 }
 

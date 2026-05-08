@@ -3,10 +3,10 @@
    ========================================================================== */
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "system".
+// "system". Default is dark.
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
-  return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
+  return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "dark" : themeSetting;
 };
 
 // Determine the computed theme, which can be "dark" or "light". If the theme setting is
@@ -102,7 +102,7 @@ $(document).ready(function () {
   //           setTheme(e.matches ? "dark" : "light");
   //         }
   //       });
-  setTheme("light");
+  setTheme();
 
   // Enable the theme toggle
   $('#theme-toggle').on('click', toggleTheme);
