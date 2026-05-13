@@ -7,22 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Woo Kim — a **Machine Learning Engineer** with 10+ years of experience building end-to-end ML systems across computer vision, multimodal sensing, and production infrastructure.
+Hello, I’m Woo Kim, a Machine Learning Engineer with 10+ years of experience building end-to-end ML systems across computer vision, multimodal sensing, and production infrastructure.
 
 Most of my experiences have been on turning research ideas into reliable, scalable systems — from data pipelines and training workflows to evaluation and deployment.
 
 I'm currently focused on ML infrastructure, multimodal perception, and scalable training systems.
 
-[Download CV](/files/Resume%20-%20Woo%20Kim.pdf)
+[View Resume](/files/Resume%20-%20Woo%20Kim.pdf)
 
 <br>
 
 Selected Works
 ======
-
 ### Meta Reality Labs (Dec 2023 – Dec 2025)
 
-<img src="images/Meta glove prototype.png" width="500">
+<img src="images/Meta glove.png" width="500">
 
 * Built end-to-end ML workflows for **hand pose estimation**, improving robustness under severe occlusions and reducing error by 50%+
 * Developed **multimodal data pipelines** (mocap, IMU, tactile, optical fiber) for synchronized data collection and evaluation
@@ -54,13 +53,12 @@ Selected Works
 
 <br>
 
-How I Work
+Approach
 ======
+I enjoy working across research, engineering, and product boundaries to build practical and reliable systems. Much of my work has been highly collaborative, with an emphasis on thoughtful problem-solving, iteration, and turning ideas into usable solutions.
 
-I’m most effective in environments where I can:
+<br>
 
-* Bridge **research and production**, turning prototypes into usable systems
-* Work across the stack — from modeling and data to infrastructure and tooling
-* Collaborate with engineers, researchers, and product teams to ship practical solutions
-
-I value teams that are **curious, low-ego, and focused on building things that work**.
+Beyond Work
+======
+Outside of work, I enjoy games, creative technical projects, and exploring technologies that create thoughtful and engaging user experiences.
