@@ -22,7 +22,7 @@ Selected Works
 <div class="selected-work selected-work--wide">
 <div class="selected-work__media">
 <h3><a href="/portfolio/2023-meta/">Meta</a></h3>
-<a href="/portfolio/2023-meta/"><img src="images/Meta glove - thumbnail.png" alt="Meta haptic glove prototype"></a>
+<a href="/portfolio/2023-meta/"><img src="images/meta glove - thumbnail.png" alt="Meta haptic glove prototype"></a>
 </div>
 <ul>
 <li>Managed multiple ML training pipelines for 27 DOF <strong>glove pose estimation</strong> for real-time user interaction with VR devices</li>
@@ -55,7 +55,7 @@ Selected Works
 <div class="selected-work selected-work--wide">
 <div class="selected-work__media">
 <h3><a href="/portfolio/2014-sri/">SRI International</a></h3>
-<a href="/portfolio/2014-sri/"><img src="images/facial expression 2  - thumbnail.png" alt="3D facial expression reconstruction"></a>
+<a href="/portfolio/2014-sri/"><img src="images/facial expression 2 - thumbnail.png" alt="3D facial expression reconstruction"></a>
 </div>
 <ul>
 <li>Developed an ML pipeline for <strong>3D facial reconstruction</strong> from 2D video</li>
