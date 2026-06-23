@@ -1,6 +1,6 @@
 ---
 title: "Microsoft (Apr 2016 – Jul 2017)"
-excerpt: " &nbsp;&nbsp; <img src='/images/Build 2017 Workplace Safety.png' width='200' height='150'><br/> &nbsp;&nbsp; Workshop Safety & Other Projects"
+excerpt: "Workshop Safety (Build 2017)<br/>Indoor Positioning System<br/>Scene understanding<br/>Dataset annotation tools"
 collection: portfolio
 ---
 

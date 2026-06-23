@@ -1,10 +1,6 @@
 ## Overview
 
-This repository contains the source code for my personal website and portfolio:
-
-👉 https://efreeto.github.io/
-
-The site highlights my work as a **Machine Learning Engineer**, including selected projects, experience, and deep-dive writeups.
+This repository contains the source code for my personal website and portfolio: https://efreeto.github.io/
 
 It is built using [Academic Pages](https://academicpages.github.io/), a Jekyll-based template for academic and professional portfolios.
 

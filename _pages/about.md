@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Woo Kim, a Machine Learning Engineer with 10+ years of experience building end-to-end ML systems across computer vision, multimodal sensing, and production infrastructure.
+Hi, my name is Woo Kim, and I am a Machine Learning Engineer with 10+ years of experience building end-to-end ML systems across computer vision, backend development, and multimodal sensor infrastructures.
 
-Most of my experiences have been on turning research ideas into reliable, scalable systems — from data pipelines and training workflows to evaluation and deployment.
+Many of my experiences were about turning research ideas into reliable and scalable systems - owning all prospect of the pipeline from data and training to evaluation and deployment.
 
-I'm currently focused on ML infrastructure, multimodal perception, and scalable training systems.
+I'm currently focused on building ML infrastructures and multimodal perception systems.
 
 [View Resume](/files/Resume%20-%20Woo%20Kim.pdf)
 
@@ -19,37 +19,60 @@ I'm currently focused on ML infrastructure, multimodal perception, and scalable 
 
 Selected Works
 ======
-### Meta Reality Labs (Dec 2023 – Dec 2025)
+<div class="selected-work selected-work--wide">
+<div class="selected-work__media">
+<h3><a href="/portfolio/2023-meta/">Meta</a></h3>
+<a href="/portfolio/2023-meta/"><img src="images/Meta glove - thumbnail.png" alt="Meta haptic glove prototype"></a>
+</div>
+<ul>
+<li>Managed multiple ML training pipelines for 27 DOF <strong>glove pose estimation</strong> for real-time user interaction with VR devices</li>
+<li>Developed multimodal data pipelines (mocap, IMU, tactile, optical fiber) for synchronized data collection and evaluation</li>
+</ul>
+</div>
 
-<img src="images/Meta glove.png" width="500">
+<div class="selected-work selected-work--wide">
+<div class="selected-work__media">
+<h3><a href="/portfolio/2017-huawei/">Huawei</a></h3>
+<a href="/portfolio/2017-huawei/"><img src="images/facial alignment - thumbnail.png" alt="Facial alignment"></a>
+</div>
+<ul>
+<li>Implemented state-of-the-art AR <strong>facial alignment</strong> algorithm from research paper to C++ and Python codes</li>
+<li>Achieved a 15% inference speed improvement through a novel network layer optimization</li>
+</ul>
+</div>
 
-* Built end-to-end ML workflows for **hand pose estimation**, improving robustness under severe occlusions and reducing error by 50%+
-* Developed **multimodal data pipelines** (mocap, IMU, tactile, optical fiber) for synchronized data collection and evaluation
-* Designed tools for experiment tracking and automated annotation to accelerate iteration and reduce labeling cost
+<div class="selected-work selected-work--wide">
+<div class="selected-work__media">
+<h3><a href="/portfolio/2016-microsoft/">Microsoft</a></h3>
+<a href="/portfolio/2016-microsoft/"><img src="/images/Build 2017 Workplace Safety - thumbnail.png" alt="Workplace safety"></a>
+</div>
+<ul>
+<li>Integrated <strong>object detection</strong> algorithms for real-time applications using multithreading and memory optimizations in C++.</li>
+<li>Showcased at 'Build 2017', demonstrating real-time application prototypes to industry and internal audiences.</li>
+</ul>
+</div>
 
-[View details](/portfolio/1-meta/)
+<div class="selected-work selected-work--wide">
+<div class="selected-work__media">
+<h3><a href="/portfolio/2014-sri/">SRI International</a></h3>
+<a href="/portfolio/2014-sri/"><img src="images/facial expression 2  - thumbnail.png" alt="3D facial expression reconstruction"></a>
+</div>
+<ul>
+<li>Developed an ML pipeline for <strong>3D facial reconstruction</strong> from 2D video</li>
+<li>Engineered the end-to-end pipeline spanning model selection, training, animation and GUI, completed independently in a remote environment</li>
+</ul>
+</div>
 
-
-### Microsoft Research (Jan 2018 – Apr 2023)
-
-<img src="images/Project Science Engine.png" width="500">
-
-* Founding engineer for **Project S (Science Engine)**, an AI platform for large-scale content understanding
-* Built backend systems and infrastructure supporting **scalable ML workflows** on Azure
-* Developed telemetry and monitoring systems to improve reliability and observability
-
-[View details](/portfolio/2-microsoft/)
-
-
-### SRI International (Jul 2014 – Oct 2014)
-
-<img src="images/facial expression 2 - blurred.png" width="500">
-
-* Developed an end-to-end pipeline for **3D facial reconstruction from 2D video**
-* Covered modeling, training, and visualization, delivered independently in a remote environment
-
-[View details](/portfolio/5-sri/)
-
+<div class="selected-work selected-work--wide">
+<div class="selected-work__media">
+<h3><a href="/portfolio/2012-kist/">KIST</a></h3>
+<a href="/portfolio/2012-kist/"><img src="images/hand pose db - thumbnail.png" alt="3D hand db generation"></a>
+</div>
+<ul>
+<li>Designed a novel <strong>hand tracking</strong> algorithm for point cloud data from Kinect and RealSense cameras</li>
+<li>Built a synthetic gesture database by simulating RGB-D projection patterns on articulating 3D hand models</li>
+</ul>
+</div>
 
 <br>
 
@@ -61,4 +84,4 @@ I enjoy working across research, engineering, and product boundaries to build pr
 
 Beyond Work
 ======
-Outside of work, I enjoy games, creative technical projects, and exploring technologies that create thoughtful and engaging user experiences.
+Outside of work, I video enjoy games and exploring creative technical projects with thoughtful and engaging user experiences.
